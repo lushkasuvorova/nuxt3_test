@@ -9,5 +9,5 @@
         </article>
       </ContentDoc>
   </main>
-  comments
+  <AddComment />
 </template>
